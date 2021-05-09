@@ -1,4 +1,4 @@
- • Esta é uma recriação da página inicial do *Instagram*, realizada no bootcamp *HTML Web Developer* da *Digital Innovation One*.
+ • Esta é uma recriação da página inicial do *Instagram*, realizada durante o bootcamp *HTML Web Developer* da *Digital Innovation One*.
  
  
  • Neste projeto foram utilizados os modelos de ***layout Flexbox*** que permitem a criação de sites mais responsivos.
